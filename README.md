@@ -19,7 +19,12 @@ fog is the Ruby cloud services library, top to bottom:
 
 The easiest way to learn fog is to install the gem and use the interactive console.
 Here is an example of wading through server creation for Amazon Elastic Compute Cloud:
-
+The easiest way to learn fog is to install the gem and use the interactive console.
+Here is an example of wading through server creation for Amazon Elastic Compute Cloud:
+The easiest way to learn fog is to install the gem and use the interactive console.
+Here is an example of wading through server creation for Amazon Elastic Compute Cloud:
+The easiest way to learn fog is to install the gem and use the interactive console.
+Here is an example of wading through server creation for Amazon Elastic Compute Cloud:
 ```
 $ sudo gem install fog
 [...]
